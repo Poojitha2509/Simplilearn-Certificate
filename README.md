@@ -1,8 +1,12 @@
 # Simplilearn SQL Certificate
-## Certification Name: Introduction To SQL
-## Issuing Organization: Simplilearn
-## Date Completed: 24-01-2025
-## Certificate ID: 7811335
+## Certification Name: 
+Introduction To SQL
+## Issuing Organization:
+Simplilearn
+## Date Completed:
+24-01-2025
+## Certificate ID:
+7811335
 
 ## Key Skills Acquired:
 1. SQL Fundamentals: Learned the basics of SQL, including data types, queries, and database design.
