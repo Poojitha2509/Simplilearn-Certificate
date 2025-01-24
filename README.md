@@ -1,12 +1,10 @@
-# Simplilearn-Certificate
-## SQL Certification
-## Certification Name: Simplilearn SQL Certification
-Issuing Organization: Simplilearn
-Date Completed: [Date]
-Certificate ID: [Certificate ID, if applicable]
+# Simplilearn SQL Certificate
+## Certification Name: Introduction To SQL
+## Issuing Organization: Simplilearn
+## Date Completed: 24-01-2025
+## Certificate ID: 7811335
 
-Key Skills Acquired:
-
+## Key Skills Acquired:
 1. SQL Fundamentals: Learned the basics of SQL, including data types, queries, and database design.
 2. Querying and Data Retrieval: Mastered querying techniques, including filtering, sorting, and aggregating data.
 3. Database Management: Understood database concepts, including normalization, indexing, and transaction management.
